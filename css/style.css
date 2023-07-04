@@ -1,0 +1,19 @@
+.wrapper {
+  margin: 0 auto;
+}
+.flex {
+  display: flex;
+}
+.top, .results {
+  flex-direction: column;
+  align-items: center;
+}
+.turns {
+  gap: 10rem;
+}
+h1{
+  color: red;
+}
+.player, .opponent {
+  text-align: center;
+}
